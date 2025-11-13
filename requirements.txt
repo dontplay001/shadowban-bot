@@ -1,4 +1,3 @@
 aiosqlite
-selenium
-webdriver-manager
+aiohttp
 python-telegram-bot[job-queue]
